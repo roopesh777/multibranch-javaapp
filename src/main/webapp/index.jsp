@@ -9,7 +9,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">WE ARE SUCCESSFULLY DEPLOYED APPLICATION</h1>
 	<h1 style="color: grey; font-size: 40px;" align="center">we are done with ci/cd</h1>
 	<h1 style="color: blue; font-size: 40px;" align="center">we integraded nexus also/cd</h1>
-	<h1 style="color: black; font-size: 40px;" align="center">we are raising PR</h1>
+	<h1 style="color: black; font-size: 40px;" align="center">we are raising PR to central</h1>
 	
 	
 	
